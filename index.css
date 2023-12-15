@@ -1,0 +1,20 @@
+.item{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  align-items: center;
+  background-color: white;
+  padding: 10px;
+  border-radius: 4px;
+}
+.delete{
+  border: none;
+background-color: red;
+color: white;
+border-radius: 4px;
+font-size: 13px;
+}
+.item p{
+  margin: 0;
+  font-weight: 600;
+}
